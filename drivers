@@ -1,5 +1,1 @@
-{
-    "name": "John",
-    "age": 30,
-    "car": null
-}
+[{"Id":1,"firstName": "Angel","lastName": "Dominguez","phone": "+52 1 663 101 5072","license": "MockNumber"},{"Id":2,"firstName": "Angel","lastName": "Dominguez","phone": "+52 1 663 101 5072","license": "MockNumber"},{"Id":3,"firstName": "Angel","lastName": "Dominguez","phone": "+52 1 663 101 5072","license": "MockNumber"}]

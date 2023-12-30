@@ -1,0 +1,27 @@
+[
+  {
+    "EquipmentNumber": "299",
+    "Type": "Reefer",
+    "Size": 53,
+  },
+  {
+    "EquipmentNumber": "531758",
+    "Type": "Dry Van",
+    "Size": 53,
+  },
+  {
+    "EquipmentNumber": "251",
+    "Type": "Dry Van",
+    "Size": 53,
+  },
+  {
+    "EquipmentNumber": "5407",
+    "Type": "Dry Van",
+    "Size": 53,
+  },
+  {
+    "EquipmentNumber": "10373",
+    "Type": "Dry Van",
+    "Size": 53,
+  }
+]

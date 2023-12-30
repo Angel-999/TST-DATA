@@ -1,0 +1,40 @@
+{
+  "USDOT": "2357598",
+  "Name": "THREE STARS TRANSPORT INC",
+  "Address": "1427 EVANWOOD AVE LA PUENTE, CA 91744",
+  "Telefono": "(663) 101-5072",
+  "Email": "THREESTARS039@GMAIL.COM",
+  "QPP": 2,
+  "QPT": 3,
+  "QPEmail": "QuickPay@gmail.com",
+  "SPT": 30,
+  "InvoiceEmail": "",
+  "Notes": null,
+  "Blacklisted": 1
+}{
+  "USDOT": "3374804",
+  "Name": "TRINITY LOGISTICS",
+  "Address": "215 SOUTH BROADWAY 250 SALEM, NH 03079",
+  "Telefono": "(734) 730-4313",
+  "Email": "TRINITYLOGISTICSNH@YAHOO.COM",
+  "QPP": 1,
+  "QPT": 2,
+  "QPEmail": "QuickPay@TRINITYLOGISTICS.com",
+  "SPT": 30,
+  "InvoiceEmail": "invoices@medinalogistics.com",
+  "Notes": null,
+  "Blacklisted": 2
+}{
+  "USDOT": "2575445",
+  "Name": "MEDINA LOGISTICS GROUP INC",
+  "Address": "1024 IRON POINT RD # 4110 FOLSOM, CA 95630",
+  "Telefono": "(916) 744-2213",
+  "Email": "",
+  "QPP": 3,
+  "QPT": 3,
+  "QPEmail": "QuickPay@medinalogistics.com",
+  "SPT": 30,
+  "InvoiceEmail": "",
+  "Notes": null,
+  "Blacklisted": 0
+}

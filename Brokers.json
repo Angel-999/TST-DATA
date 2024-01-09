@@ -1,13 +1,5 @@
 [
   {
-    "id": "Sample String",
-    "broker_Name": "Sample String",
-    "phone": "Sample String",
-    "email": "Sample String",
-    "companyUSDOT": "Sample String",
-    "notes": "Sample String"
-  },
-  {
     "id": "1",
     "Broker_Name": "Henry Ayva",
     "Phone": "(916) 744-2213",
@@ -15,7 +7,7 @@
     "CompanyUSDOT": "3751346"
   },
   {
-    "id": "1",
+    "id": "2",
     "Broker_Name": "Henry Ayva",
     "Phone": "(916) 744-2213",
     "Email": "henry@medinainc.net",

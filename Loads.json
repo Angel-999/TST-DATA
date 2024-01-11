@@ -8,5 +8,15 @@
         "truckId": "L02",
         "equipmentId": "299",
         "payed": 0
+    },
+        {
+        "invoiceNumber": 702,
+        "loadNumber": 111047734,
+        "companyUSDOT": "2236410",
+        "brokerId": "0000002",
+        "driverId": "BCN12345",
+        "truckId": "L02",
+        "equipmentId": "299",
+        "payed": 0
     }
 ]

@@ -2,6 +2,7 @@
     {
         "invoiceNumber": 701,
         "loadNumber": 111047733,
+        "rate": 1000.00,
         "pickUpDate": "09/15/2023",
         "pickUpAddress": "2400 Atlantic Way SE, Deming, NM 88030, United States",
         "deliveryDate": "09/16/2023",
@@ -17,6 +18,7 @@
         {
         "invoiceNumber": 702,
         "loadNumber": 111047734,
+        "rate": 2500.00,
         "pickUpDate": "10/16/2023",
         "pickUpAddress": "2400 Atlantic Way SE, Deming, NM 88030, United States",
         "deliveryDate": "10/17/2023",

@@ -1,0 +1,12 @@
+[
+    {
+        "invoiceNumber": 701,
+        "loadNumber": 111047733,
+        "companyUSDOT": "3751346",
+        "brokerId": "0000001",
+        "driverId": "BCN12345",
+        "truckId": "L02",
+        "equipmentId": "299",
+        "payed": 0
+    }
+]

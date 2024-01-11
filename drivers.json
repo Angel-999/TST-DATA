@@ -1,20 +1,20 @@
 [
   {
-    "license": "BCN20205"
+    "license": "BCN20205",
     "firstName": "Alfredo",
     "lastName": "Dominguez",
-    "phone": "+52 1 663 101 5072",
+    "phone": "+52 1 663 101 5072"
   },
   {
-    "license": "BCN12345"
+    "license": "BCN12345",
     "firstName": "Alejandro",
     "lastName": "Loayza",
-    "phone": "+52 1 663 101 5072",
+    "phone": "+52 1 663 101 5072"
   },
   {
-    "license": "BCN12340"
+    "license": "BCN12340",
     "firstName": "Domingo",
     "lastName": "Cruz",
-    "phone": "+52 1 664 381 80 85",
+    "phone": "+52 1 664 381 80 85"
   }
 ]

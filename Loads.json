@@ -14,7 +14,7 @@
         "driverId": "BCN12345",
         "truckId": "L02",
         "equipmentId": "5407",
-        "payed": 0
+        "payed": true
     },
         {
         "invoiceNumber": 702,
@@ -31,6 +31,6 @@
         "driverId": "BCN12345",
         "truckId": "L02",
         "equipmentId": "5407",
-        "payed": 0
+        "payed": true
     }
 ]
